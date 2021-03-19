@@ -14,8 +14,11 @@
 </p></br>
 
 
-  <img width="100%" alt="mockup" title=".it" src="image/image1" />
+  <img width="100%" alt="mockup" src="../img/image1.png" alt="">
+
 </br>
+
+
 
 
 
@@ -32,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Tracker-19 foi desenvolvido para quantificação de casos envolvendo a COVID-19 utilizando uma API no qual fornece os dados e atualiza os mesmos diariamente. Informações de todos estados Brasileiros é demonstrada atravez de uma tabela ou o total por um gáfico.
 
 <p align= "center">
-<img src="img/image2" width="80%" />
+  <img width="80%" src="../img/image2.png" alt="">
 </p>
 
 ## 🔖 Layout
