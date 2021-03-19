@@ -4,7 +4,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p> 
@@ -37,10 +36,6 @@ Tracker-19 foi desenvolvido para quantificação de casos envolvendo a COVID-19 
 <p align= "center">
   <img width="100%" src="img/img2.png" alt="">
 </p>
-
-## 🔖 Layout
-
-Você pode visualizar o projeto através [desse link]().
 
 ## 🚀 Como executar
 
